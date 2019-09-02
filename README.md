@@ -13,11 +13,18 @@ Alternatively these notebooks can be executed from  a [CodeOcean capsule](https:
 
 ## Introductory examples
 
-* [Euclidean and Lobachevsky lines](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Euclidean_and_Lobachevsky_lines.ipynb) This notebook also show how to make initial software installation.
++ **Euclidean and Lobachevsky lines** This notebook also show how to make initial software installation 
+[View on Github](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Euclidean_and_Lobachevsky_lines.ipynb) or [Execute on Colab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Euclidean_and_Lobachevsky_lines.ipynb).
 
-* [Nine point theorem](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Nine_point_throrem.ipynb) Some non-trivial illustrations on the celebrated result.
++ **Nine point theorem**: Some non-trivial illustrations on the celebrated result
+[View on
+  Github](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Nine_point_theorem.ipynb)
+or  [Execute on CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Nine_point_theorem.ipynb).
 
-* [Example of symbolic computations](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Example_of_symbolic_computations.ipynb) Analytic proof of a simple geometric statement.
+* **Example of symbolic computations** Analytic proof of a simple geometric statement 
+[View on
+  Github](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Example_of_symbolic_computations.ipynb)
+or  [Execute on CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Example_of_symbolic_computations.ipynb).
 
 ## Jupyter and MoebInv-GUI integration
 There is a Graphical User Interface (GUI) to the MoebInv library. It allows to create and research geometrical constructions by mouse clicks. You may find a pre-compiled GUI binary distribution for your desktop platform at [SourceForge](https://sourceforge.net/projects/moebinv/files/binary/). 
