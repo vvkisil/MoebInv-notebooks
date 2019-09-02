@@ -1,7 +1,7 @@
 # MoebInv notebooks
 A collections of notebooks on Lie-Möbius sphere geometry and MoebInv package. We discuss and discover mathematical aspects of the theory using a dedicated software.
 
-[annotated Table of Contents](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Table%20of%20contents.ipynb) as Jupyter notebook.
+See the [annotated Table of Contents](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Table%20of%20contents.ipynb) as a Jupyter notebook.
 
 
 ## Running MoebInv notebooks
@@ -11,20 +11,25 @@ Specifically, open the notebook with [library installation instructions](https:/
 
 Alternatively these notebooks can be executed from  a [CodeOcean capsule](https://codeocean.com/capsule/7952650/tree).
 
+
 ## Introductory examples
 
-+ **Euclidean and Lobachevsky lines** This notebook also show how to make initial software installation 
-[View on Github](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Euclidean_and_Lobachevsky_lines.ipynb) or [Execute on Colab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Euclidean_and_Lobachevsky_lines.ipynb).
++ **Euclidean and Lobachevsky lines** This notebook also show how to make initial software installation
+
+   [View on Github](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Euclidean_and_Lobachevsky_lines.ipynb) or [Execute on Colab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Euclidean_and_Lobachevsky_lines.ipynb).
 
 + **Nine point theorem**: Some non-trivial illustrations on the celebrated result
-[View on
+
+   [View on
   Github](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Nine_point_theorem.ipynb)
 or  [Execute on CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Nine_point_theorem.ipynb).
 
 * **Example of symbolic computations** Analytic proof of a simple geometric statement
-[View on
+
+   [View on
   Github](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Example_of_symbolic_computations.ipynb)
 or  [Execute on CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Example_of_symbolic_computations.ipynb).
+
 
 ## Jupyter and MoebInv-GUI integration
 There is a Graphical User Interface (GUI) to the MoebInv library. It allows to create and research geometrical constructions by mouse clicks. You may find a pre-compiled GUI binary distribution for your desktop platform at [SourceForge](https://sourceforge.net/projects/moebinv/files/binary/). 
