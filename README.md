@@ -14,16 +14,16 @@ Alternatively these notebooks can be executed from  a [CodeOcean capsule](https:
 ## Introductory examples
 
 + **Euclidean and Lobachevsky lines** This notebook also show how to make initial software installation 
-[View on Github](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Euclidean_and_Lobachevsky_lines.ipynb) or [Execute on Colab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Euclidean_and_Lobachevsky_lines.ipynb).
+[View on Github](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Euclidean_and_Lobachevsky_lines.ipynb) or [Execute on Colab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Euclidean_and_Lobachevsky_lines.ipynb).
 
 + **Nine point theorem**: Some non-trivial illustrations on the celebrated result
 [View on
-  Github](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Nine_point_theorem.ipynb)
+  Github](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Nine_point_theorem.ipynb)
 or  [Execute on CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Nine_point_theorem.ipynb).
 
-* **Example of symbolic computations** Analytic proof of a simple geometric statement 
+* **Example of symbolic computations** Analytic proof of a simple geometric statement
 [View on
-  Github](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Example_of_symbolic_computations.ipynb)
+  Github](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Example_of_symbolic_computations.ipynb)
 or  [Execute on CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Example_of_symbolic_computations.ipynb).
 
 ## Jupyter and MoebInv-GUI integration
