@@ -1,7 +1,7 @@
-# MoebInv notebooks
-A collections of notebooks on Lie-Möbius sphere geometry and MoebInv package. We discuss and discover mathematical aspects of the theory using a dedicated software.
+# Introductory MoebInv notebooks
+This folder contains notebooks which introduce basics of the MoebInv package. 
 
-See the [annotated Table of Contents](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Table%20of%20contents.ipynb) as a Jupyter notebook.
+See the top-level [annotated Table of Contents](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Table%20of%20contents.ipynb) as a Jupyter notebook.
 
 
 ## Running MoebInv notebooks
@@ -29,25 +29,4 @@ or  [Execute on CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-
    [View on
   Github](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Example_of_symbolic_computations.ipynb)
 or  [Execute on CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Example_of_symbolic_computations.ipynb).
-
-
-## Jupyter and MoebInv-GUI integration
-There is a Graphical User Interface (GUI) to the MoebInv library. It allows to create and research geometrical constructions by mouse clicks. You may find a pre-compiled GUI binary distribution for your desktop platform at [SourceForge](https://sourceforge.net/projects/moebinv/files/binary/). 
-
-There is bidirectional integration beetween Jupyter and GUI:
-
-* From Jupyter (or any coding system in C++ or Python) use
-``` python
-F.save("my-figure-archive.gar")
-```
-to save GiNaC Gar archive. It can be loaded into GUI (or any other front-end, indeed).
-* From GUI select
-```
-File → Export figure → Export Python script
-```
-in Main Menu and save the script file. Then it can be executed in the IPython or Jupyter cell.
-
-Furthermore, to use such code as Jupyter notebook I recommend to post-process the generated Python script with [p2j (Python to Jupyter)](https://pypi.org/project/p2j/) utility.
-
-Here is an [Example](https://colab.research.google.com/drive/101nZupZRtDXaF5GRrjOmuMHd5oPOzpL8#scrollTo=MIcFs9KN4J4_) of Python script and Jupyter notebook automatically created from the GUI.
 
