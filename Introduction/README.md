@@ -30,7 +30,8 @@ or  [Execute on CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-
   Github](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Example_of_symbolic_computations.ipynb)
 or  [Execute on CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Introduction/Example_of_symbolic_computations.ipynb).
 
-+ **Example of automatically generated script** 
++ **Example of automatically generated script**
+
    [View on
   Github](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Nine_point_auto_script.ipynb)
 or  [Execute on CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Introduction/Nine_point_auto_script.ipynb).
