@@ -40,7 +40,7 @@ There is bidirectional integration beetween Jupyter and GUI:
 ``` python
 F.save("my-figure-archive.gar")
 ```
-to save GiNaC Gar archive. It can be loaded into GUI (or any other front-end, indeed).
+to save GiNaC Gar archive. Later it can be loaded into GUI (or any other front-end, indeed).
 * From GUI select
 ```
 File → Export figure → Export Python script
@@ -49,5 +49,7 @@ in Main Menu and save the script file. Then it can be executed in the IPython or
 
 Furthermore, to use such code as Jupyter notebook I recommend to post-process the generated Python script with [p2j (Python to Jupyter)](https://pypi.org/project/p2j/) utility.
 
-Here is an [Example](https://colab.research.google.com/drive/101nZupZRtDXaF5GRrjOmuMHd5oPOzpL8#scrollTo=MIcFs9KN4J4_) of Python script and Jupyter notebook automatically created from the GUI.
+Here is an
+[Example](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Nine_point_auto_script.ipynb)
+of a Python script and Jupyter notebook automatically created from the GUI.
 
