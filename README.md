@@ -1,7 +1,7 @@
 # MoebInv notebooks
-A collections of notebooks on Lie-Möbius sphere geometry and MoebInv package. We discuss and discover mathematical aspects of the theory using a dedicated software.
+A collections of notebooks on Lie-Möbius sphere geometry and MoebInv package. We discuss and discover mathematical aspects of the theory using the dedicated software.
 
-See the [annotated Table of Contents](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Table%20of%20contents.ipynb) as a Jupyter notebook.
+See the [annotated Table of Contents](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Table_of_contents.md) as a Jupyter notebook.
 
 
 ## Running MoebInv notebooks
