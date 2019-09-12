@@ -5,7 +5,7 @@ See the top-level [annotated Table of Contents](https://github.com/vvkisil/MoebI
 
 To jump to execution of a notebook click its `⚙CoLab` button at the end of description.
 
-+ [What is a cycle, by the way?](https://github.com/vvkisil/MoebInv-notebooks/tree/master/Geometry_of_cycles/Start_from_Basics/What_is_cycle.ipynb) A pedestrian introduction of the key concept of Lie-Möbius sphere geometry. [⚙CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Geometry_of_cycles/Start_from_Basics/What_is_cycle.ipynb)
++ [What is a cycle, by the way?](https://github.com/vvkisil/MoebInv-notebooks/tree/master/Geometry_of_cycles/Start_from_Basics/What_is_cycle.html) A pedestrian introduction of the key concept of Lie-Möbius sphere geometry. [⚙CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Geometry_of_cycles/Start_from_Basics/What_is_cycle.ipynb)
 
 ### References
 1. Vladimir V. Kisil, [*MoebInv: Symbolic, numeric and graphic manipulations in non-Eclidean geometry*](http://moebinv.sourceforge.net/), SourceForge repository,
