@@ -16,18 +16,19 @@ Alternatively these notebooks can be executed from  a [CodeOcean capsule](https:
 
 + **Euclidean and Lobachevsky lines** This notebook also show how to make initial software installation
 
-   [View on Github](https://github.com/vvkisil/MoebInv-notebooks/blob/Introduction/master/Introduction/Euclidean_and_Lobachevsky_lines.html) or [Execute on Colab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Introduction/Euclidean_and_Lobachevsky_lines.ipynb).
+   [View on Github](https://github.com/vvkisil/MoebInv-notebooks/blob/Introduction/master/Introduction/Euclidean_and_Lobachevsky_lines.ipynb),  or [HTML view](http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/Introduction/master/Introduction/Euclidean_and_Lobachevsky_lines.html) or [Execute on Colab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Introduction/Euclidean_and_Lobachevsky_lines.ipynb).
 
 + **Nine point theorem**: Some non-trivial illustrations on the celebrated result
 
    [View on
-  Github](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Nine_point_theorem.html)
+  Github](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Nine_point_theorem.ipynb),   or [HTML view](http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/Introduction/Nine_point_theorem.html)
 or  [Execute on CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Introduction/Nine_point_theorem.ipynb).
 
 * **Example of symbolic computations** Analytic proof of a simple geometric statement
 
    [View on
-  Github](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Example_of_symbolic_computations.html)
+  Github](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Example_of_symbolic_computations.ipynb) or
+   [HTML view](http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/Introduction/Example_of_symbolic_computations.html)
 or  [Execute on CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Introduction/Example_of_symbolic_computations.ipynb).
 
 
@@ -50,6 +51,6 @@ in Main Menu and save the script file. Then it can be executed in the IPython or
 Furthermore, to use such code as Jupyter notebook I recommend to post-process the generated Python script with [p2j (Python to Jupyter)](https://pypi.org/project/p2j/) utility.
 
 Here is an
-[Example](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Nine_point_auto_script.html)
+[Example](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Nine_point_auto_script.ipynb) or its [HTML view](http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/Introduction/Nine_point_auto_script.html)
 of a Python script and Jupyter notebook automatically created from the GUI.
 
