@@ -16,7 +16,7 @@ Alternatively these notebooks can be executed from  a [CodeOcean capsule](https:
 
 + **Euclidean and Lobachevsky lines** This notebook also show how to make initial software installation
 
-   [View on Github](https://github.com/vvkisil/MoebInv-notebooks/blob/Introduction/master/Introduction/Euclidean_and_Lobachevsky_lines.ipynb),  or [HTML view](http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/Introduction/master/Introduction/Euclidean_and_Lobachevsky_lines.html) or [Execute on Colab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Introduction/Euclidean_and_Lobachevsky_lines.ipynb).
+   [View on Github](https://github.com/vvkisil/MoebInv-notebooks/blob/Introduction/master/Introduction/Euclidean_and_Lobachevsky_lines.ipynb),  or [HTML view](http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/Introduction/Euclidean_and_Lobachevsky_lines.html) or [Execute on Colab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Introduction/Euclidean_and_Lobachevsky_lines.ipynb).
 
 + **Nine point theorem**: Some non-trivial illustrations on the celebrated result
 
@@ -45,21 +45,21 @@ There is a Graphical User Interface (GUI) to the MoebInv library. It allows to c
 There is bidirectional integration beetween Jupyter and GUI:
 
 * From Jupyter (or any coding system in C++ or Python) use
-``` python
-F.save("my-figure-archive.gar")
-```
-to save GiNaC Gar archive. Later it can be loaded into GUI (or any other front-end, indeed).
+ ``` python
+ F.save("my-figure-archive.gar")
+ ```
+ to save GiNaC Gar archive. Later it can be loaded into GUI (or any other front-end, indeed).
+
 * From GUI select
-```
-File → Export figure → Export Python script
-```
-in Main Menu and save the script file. Then it can be executed in the IPython or Jupyter cell.
+ ```
+ File → Export figure → Export Python script
+ ```
+ in Main Menu and save the script file. Then it can be executed in the IPython or Jupyter cell.
 
-Furthermore, to use such code as Jupyter notebook I recommend to post-process the generated Python script with [p2j (Python to Jupyter)](https://pypi.org/project/p2j/) utility.
+ Furthermore, to use such code as Jupyter notebook I recommend to post-process the   generated Python script with [p2j (Python to Jupyter)](https://pypi.org/project/p2j/) utility.
 
-Here is an
-[Example](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Nine_point_auto_script.ipynb) or its [HTML view](http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/Introduction/Nine_point_auto_script.html)
-of a Python script and Jupyter notebook automatically created from the GUI.
+ Here is an
+[Example](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Nine_point_auto_script.ipynb) or its [HTML view](http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/Introduction/Nine_point_auto_script.html) of a Python script and Jupyter notebook automatically created from the GUI.
 
 ### References
 <a id="references"></a>
@@ -68,7 +68,7 @@ of a Python script and Jupyter notebook automatically created from the GUI.
 1. Vladimir V. Kisil, *Fillmore–Springer–Cnops Construction Implemented in GiNaC*, Advances in Applied Clifford Algebras, 17(2007), no. 1, pp. 59–70, [on-line](http://dx.doi.org/10.1007/s00006-006-0017-4) [arXiv:cs.MS/0512073](http://arxiv.org/abs/cs.MS/0512073).
 
 <a id="[2]"></a>
-2. Vladimir V. Kisil. *Geometry of Möbius Transformations: Elliptic, Parabolic and Hyperbolic Actions of $SL_2(\mathbb{R})$*. [Imperial College Press](https://www.worldscientific.com/worldscibooks/10.1142/p835), London, 2012. Includes a live DVD.
+2. Vladimir V. Kisil. *Geometry of Möbius Transformations: Elliptic, Parabolic and Hyperbolic Actions of SL(2, **R**)*. [Imperial College Press](https://www.worldscientific.com/worldscibooks/10.1142/p835), London, 2012. Includes a live DVD.
 
 <a id="[3]"></a>
 3. Vladimir V. Kisil, *An Extension of Mobius–Lie Geometry With Conformal Ensembles of Cycles and Its Implementation in a GiNaC Library*, Proc. Int. Geom. Cent., 11(2018), n.3, pp.45–67, [on-line](https://doi.org/10.15673/tmgc.v11i3.1203) [arXiv:1512.02960](http://arxiv.org/abs/1512.02960)

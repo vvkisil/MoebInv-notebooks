@@ -5,7 +5,7 @@ Back to the [top-level Table of Contents](https://github.com/vvkisil/MoebInv-not
 
 To jump to execution of a notebook click its `⚙CoLab` button at the end of description.
 
-## [Start from the Basics](https://github.com/vvkisil/MoebInv-notebooks/tree/master/Geometry_of_cycles/Start_from_Basics)
+## [Start from the Basics](Start_from_Basics)
 
 + [What is a cycle, by the way?](https://github.com/vvkisil/MoebInv-notebooks/tree/master/Geometry_of_cycles/Start_from_Basics/What_is_cycle.ipynb) A pedestrian introduction of the key concept of Lie-Möbius sphere geometry. [⚙CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Geometry_of_cycles/Start_from_Basics/What_is_cycle.ipynb) [HTML view](http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/Geometry_of_cycles/Start_from_Basics/What_is_cycle.html)
 
