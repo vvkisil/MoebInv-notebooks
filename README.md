@@ -31,6 +31,13 @@ or  [Execute on CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-
    [HTML view](http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/Introduction/Example_of_symbolic_computations.html)
 or  [Execute on CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Introduction/Example_of_symbolic_computations.ipynb).
 
+## Main folders
+
+ + [Introduction](Introduction) -- a collection of quick-start examples
+
+ + [Geometry_of_cycles](Geometry_of_cycles) -- main collection of notebooks
+
+ + [EPAL-v1](EPAL-v1) -- Notebooks with all computer-assisted solutions of exercises from [2](#[2]).
 
 ## Jupyter and MoebInv-GUI integration
 There is a Graphical User Interface (GUI) to the MoebInv library. It allows to create and research geometrical constructions by mouse clicks. You may find a pre-compiled GUI binary distribution for your desktop platform at [SourceForge](https://sourceforge.net/projects/moebinv/files/binary/). 
@@ -53,4 +60,16 @@ Furthermore, to use such code as Jupyter notebook I recommend to post-process th
 Here is an
 [Example](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Nine_point_auto_script.ipynb) or its [HTML view](http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/Introduction/Nine_point_auto_script.html)
 of a Python script and Jupyter notebook automatically created from the GUI.
+
+### References
+<a id="references"></a>
+
+<a id="[1]"></a>
+1. Vladimir V. Kisil, *Fillmore–Springer–Cnops Construction Implemented in GiNaC*, Advances in Applied Clifford Algebras, 17(2007), no. 1, pp. 59–70, [on-line](http://dx.doi.org/10.1007/s00006-006-0017-4) [arXiv:cs.MS/0512073](http://arxiv.org/abs/cs.MS/0512073).
+
+<a id="[2]"></a>
+2. Vladimir V. Kisil. *Geometry of Möbius Transformations: Elliptic, Parabolic and Hyperbolic Actions of $SL_2(\mathbb{R})$*. [Imperial College Press](https://www.worldscientific.com/worldscibooks/10.1142/p835), London, 2012. Includes a live DVD.
+
+<a id="[3]"></a>
+3. Vladimir V. Kisil, *An Extension of Mobius–Lie Geometry With Conformal Ensembles of Cycles and Its Implementation in a GiNaC Library*, Proc. Int. Geom. Cent., 11(2018), n.3, pp.45–67, [on-line](https://doi.org/10.15673/tmgc.v11i3.1203) [arXiv:1512.02960](http://arxiv.org/abs/1512.02960)
 

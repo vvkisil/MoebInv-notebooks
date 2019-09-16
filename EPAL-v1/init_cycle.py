@@ -1,0 +1,1 @@
+/home/kisilv/MyTeX/EPAL/Prog-v1/init_cycle.py
