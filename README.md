@@ -7,7 +7,7 @@ See the [annotated Table of Contents](https://github.com/vvkisil/MoebInv-noteboo
 ## Running MoebInv notebooks
 The code from these notebooks can be executed at Google CoLab after the installation of MoebInv library by a couple of mouse clicks.
 
-Specifically, open the notebook with [library installation instructions](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Introduction/Euclidean_and_Lobachevsky_lines.ipynb#Installing-required-software) and execute a couple of cells in this section. Then you can run all other notebooks until your CoLab session will expire.
+Specifically, open the notebook with [library installation instructions](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Introduction/Software_installation_GUI_integration.ipynb) and execute one cells with scripts. Then you can run all other notebooks until your CoLab session will expire.
 
 Alternatively these notebooks can be executed from  a [CodeOcean capsule](https://codeocean.com/capsule/7952650/tree).
 
