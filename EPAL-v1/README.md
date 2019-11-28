@@ -9,22 +9,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.3.7.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.3.7.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.3.7.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -35,22 +35,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.3.13.i.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.3.13.i.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.3.13.i.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -61,22 +61,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.3.13.iv.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.3.13.iv.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.3.13.iv.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -87,22 +87,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.3.16.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.3.16.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.3.16.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -113,22 +113,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.3.21.i.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.3.21.i.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.3.21.i.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -139,22 +139,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.3.25.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.3.25.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.3.25.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -165,22 +165,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/th.I.4.13.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/th.I.4.13.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/th.I.4.13.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -191,22 +191,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.4.15.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.4.15.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.4.15.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -217,22 +217,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.4.16.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.4.16.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.4.16.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -243,22 +243,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.4.20.iii.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.4.20.iii.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.4.20.iii.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -269,22 +269,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.9.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.9.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.9.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -295,22 +295,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.12.i.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.12.i.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.12.i.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -321,22 +321,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.12.ii.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.12.ii.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.12.ii.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -347,22 +347,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.12.iii.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.12.iii.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.12.iii.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -373,22 +373,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.17.iv.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.17.iv.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.17.iv.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -399,22 +399,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.18.iv.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.18.iv.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.18.iv.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -425,22 +425,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.18.v.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.18.v.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.18.v.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -451,22 +451,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.21.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.21.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.21.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -477,22 +477,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.23.i.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.23.i.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.23.i.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -503,22 +503,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.23.ii.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.23.ii.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.23.ii.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -529,22 +529,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.24.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.24.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.24.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -555,22 +555,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.25.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.25.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.25.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -581,22 +581,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.28.i.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.28.i.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.28.i.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -607,22 +607,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.31.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.31.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.5.31.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -633,22 +633,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.3.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.3.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.3.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -659,22 +659,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.5.i.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.5.i.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.5.i.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -685,22 +685,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.18.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.18.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.18.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -711,22 +711,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/pr.I.6.19.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/pr.I.6.19.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/pr.I.6.19.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -737,22 +737,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.22.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.22.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.22.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -763,22 +763,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.24.i.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.24.i.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.24.i.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -789,22 +789,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.24.ii.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.24.ii.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.24.ii.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -815,22 +815,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.24.iv.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.24.iv.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.24.iv.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -841,22 +841,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.25.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.25.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.25.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -867,22 +867,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.26.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.26.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.26.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -893,22 +893,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.28.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.28.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.28.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -919,22 +919,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.31.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.31.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.31.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -945,22 +945,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.32.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.32.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.32.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -971,22 +971,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.33.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.33.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.33.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -997,22 +997,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.38.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.38.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.38.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1023,22 +1023,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.39.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.39.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.6.39.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1049,22 +1049,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/pr.I.6.40.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/pr.I.6.40.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/pr.I.6.40.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1075,22 +1075,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.3.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.3.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.3.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1101,22 +1101,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/le.I.7.5.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/le.I.7.5.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/le.I.7.5.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1127,22 +1127,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.7.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.7.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.7.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1153,22 +1153,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.8.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.8.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.8.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1179,22 +1179,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/le.I.7.11.i.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/le.I.7.11.i.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/le.I.7.11.i.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1205,22 +1205,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/le.I.7.11.ii.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/le.I.7.11.ii.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/le.I.7.11.ii.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1231,22 +1231,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.14.i.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.14.i.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.14.i.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1257,22 +1257,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.14.ii.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.14.ii.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.14.ii.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1283,22 +1283,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.19.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.19.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.19.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1309,22 +1309,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.23.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.23.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.23.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1335,22 +1335,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.24.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.24.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.24.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1361,22 +1361,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.25.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.25.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.25.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1387,22 +1387,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.26.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.26.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.26.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1413,22 +1413,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.29.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.29.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.29.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1439,22 +1439,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.30.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.30.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.7.30.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1465,22 +1465,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.8.2.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.8.2.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.8.2.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1491,22 +1491,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.9.5.iii.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.9.5.iii.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.9.5.iii.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1517,22 +1517,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.9.20.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.9.20.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.9.20.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1543,22 +1543,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.10.9.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.10.9.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.10.9.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1569,22 +1569,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.10.11.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.10.11.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.10.11.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1595,22 +1595,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.10.12.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.10.12.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.10.12.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1621,22 +1621,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.10.13.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.10.13.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.10.13.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1647,22 +1647,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.10.14.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.10.14.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/ex.I.10.14.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
@@ -1673,22 +1673,22 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
     <tr>
         <td>
             <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/pr.I.11.24.html">
-  <img src="https://img.shields.io/badge/view%20as-HTML-purple.svg" alt="Open In Colab"/>
+  <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
 <a href="https://github.com/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/pr.I.11.24.ipynb">
-  <img src="https://img.shields.io/badge/open%20in-GitHub-green.svg" alt="Open In Colab"/>
+  <img src="../svg/open-github.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/EPAL-v1/pr.I.11.24.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="../svg/exec-colab.svg" alt="Open In Colab"/>
             </a>
         </td>
         <td>
             <a href="https://codeocean.com/capsule/7952650/tree">
-  <img src="https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg" alt="Code Ocean"/>
+  <img src="../svg/code-ocean.svg" alt="Code Ocean"/>
             </a>
         </td>
     </tr>
