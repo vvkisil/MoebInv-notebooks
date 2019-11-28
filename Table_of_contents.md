@@ -24,7 +24,14 @@ This notebook provides a minimal example and shows how to make initial software 
 
 + [What is a cycle, anyway?](https://github.com/vvkisil/MoebInv-notebooks/tree/master/Geometry_of_cycles/Start_from_Basics/What_is_cycle.ipynb) A pedestrian introduction of the key concept of Lie-Möbius sphere geometry. [⚙CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Geometry_of_cycles/Start_from_Basics/What_is_cycle.ipynb) or [👁 HTML view](http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/Geometry_of_cycles/Start_from_Basics/What_is_cycle.html)
 
-+ [What is PyGiNaC, anyway?](https://github.com/vvkisil/MoebInv-notebooks/tree/master/Geometry_of_cycles/Start_from_Basics/pyGiNaC.ipynb) A pedestrian introduction of the key concept of Lie-Möbius sphere geometry. [⚙CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Geometry_of_cycles/Start_from_Basics/pyGiNaC.ipynb) or [👁 HTML view](http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/Geometry_of_cycles/Start_from_Basics/pyGiNaC.html)
++ [What is PyGiNaC, anyway?](https://github.com/vvkisil/MoebInv-notebooks/tree/master/Geometry_of_cycles/Start_from_Basics/pyGiNaC.ipynb) An overview of main features of pyGiNaC---the backbone of these notebooks. [⚙CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Geometry_of_cycles/Start_from_Basics/pyGiNaC.ipynb) or [👁 HTML view](http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/Geometry_of_cycles/Start_from_Basics/pyGiNaC.html)
+
+### [Geometry of Möbius transformations](https://github.com/vvkisil/MoebInv-notebooks/tree/master/EPAL-v1)
+
+The complete set of computer-assisted exercises from the book [ [2] ](#[2]) presented as Jupyter notebooks. See complete list on the separate pages:
+
+[⚙GitHub](https://github.com/vvkisil/MoebInv-notebooks/tree/master/EPAL-v1/README.md) or
+[👁 HTML view](http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/index.html).
 
 ## [Appendix: MoebInv illustrations](https://github.com/vvkisil/MoebInv-notebooks/tree/master/Appendix_Illustrations)
 
@@ -39,6 +46,7 @@ This notebook provides a minimal example and shows how to make initial software 
 1. Vladimir V. Kisil, [*MoebInv: Symbolic, numeric and graphic manipulations in non-Eclidean geometry*](http://moebinv.sourceforge.net/), SourceForge repository,
 2004-2019.
 
+<a id="[2]"></a>
 2. Vladimir V. Kisil. *Geometry of Möbius Transformations: Elliptic, Parabolic and Hyperbolic Actions of SL(2,**R**)*. [Imperial College Press](https://www.worldscientific.com/worldscibooks/10.1142/p835), London, 2012. Includes a live DVD.
 
 3.  Vladimir V. Kisil, [*MoebInv notebooks*](https://github.com/vvkisil/MoebInv-notebooks), 2019.
