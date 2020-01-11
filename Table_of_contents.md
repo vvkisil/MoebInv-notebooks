@@ -1,7 +1,7 @@
 # MoebInv notebooks: Table of contents
 ### [Vladimir V Kisil](http://www1.maths.leeds.ac.uk/~kisilv/)
 
-These Jupyter notebooks are for discussion and discovery of Lie-Möbius sphere geometry through the usage of the dedicated `MoebInv` package.
+These Jupyter notebooks are for discussion and discovery of Lie-Möbius sphere geometry through the usage of the dedicated `MoebInv` package [ [4] ](#[4]).
 
 To jump to execution of a notebook click its `⚙CoLab` button at the end of description. All these notebooks are included in 
 
@@ -51,3 +51,5 @@ The complete set of computer-assisted exercises from the book [ [2] ](#[2]) pres
 
 3.  Vladimir V. Kisil, [*MoebInv notebooks*](https://github.com/vvkisil/MoebInv-notebooks), 2019.
  
+<a id="[4]"></a>
+4. Vladimir V. Kisil, *MoebInv: C++ Libraries for Manipulations in Non-Euclidean Geometry*, SoftwareX, **11**(2020), [100385](https://doi.org/10.1016/j.softx.2019.100385). arXiv:[1912.03489](https://arxiv.org/abs/1912.03489).

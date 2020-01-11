@@ -1,5 +1,5 @@
 # MoebInv notebooks
-A collections of notebooks on Lie-Möbius sphere geometry and MoebInv package. We discuss and discover mathematical aspects of the theory using the dedicated software.
+This is a collections of Jupyter notebooks on Lie-Möbius sphere geometry [ [3] ](#[3]) and MoebInv package [ [4] ](#[4]). We discuss and discover mathematical aspects of the theory using the dedicated software.  The project is [hosted on GitHub](https://github.com/vvkisil/MoebInv-notebooks).
 
 See the [annotated Table of Contents](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Table_of_contents.md) as a Jupyter notebook.
 
@@ -68,11 +68,13 @@ There is bidirectional integration beetween Jupyter and GUI:
 <a id="references"></a>
 
 <a id="[1]"></a>
-1. Vladimir V. Kisil, *Fillmore–Springer–Cnops Construction Implemented in GiNaC*, Advances in Applied Clifford Algebras, 17(2007), no. 1, pp. 59–70, [on-line](http://dx.doi.org/10.1007/s00006-006-0017-4) [arXiv:cs.MS/0512073](http://arxiv.org/abs/cs.MS/0512073).
+1. Vladimir V. Kisil, *Fillmore–Springer–Cnops Construction Implemented in GiNaC*, Advances in Applied Clifford Algebras, **17**(2007), no. 1, pp. 59–70, [on-line](http://dx.doi.org/10.1007/s00006-006-0017-4) [arXiv:cs.MS/0512073](http://arxiv.org/abs/cs.MS/0512073).
 
 <a id="[2]"></a>
 2. Vladimir V. Kisil. *Geometry of Möbius Transformations: Elliptic, Parabolic and Hyperbolic Actions of SL(2, **R**)*. [Imperial College Press](https://www.worldscientific.com/worldscibooks/10.1142/p835), London, 2012. Includes a live DVD.
 
 <a id="[3]"></a>
-3. Vladimir V. Kisil, *An Extension of Mobius–Lie Geometry With Conformal Ensembles of Cycles and Its Implementation in a GiNaC Library*, Proc. Int. Geom. Cent., 11(2018), n.3, pp.45–67, [on-line](https://doi.org/10.15673/tmgc.v11i3.1203) [arXiv:1512.02960](http://arxiv.org/abs/1512.02960)
+3. Vladimir V. Kisil, *An Extension of Mobius–Lie Geometry With Conformal Ensembles of Cycles and Its Implementation in a GiNaC Library*, Proc. Int. Geom. Cent., **11**(2018), n.3, pp.45–67, [on-line](https://doi.org/10.15673/tmgc.v11i3.1203) [arXiv:1512.02960](http://arxiv.org/abs/1512.02960)
 
+<a id="[4]"></a>
+4. Vladimir V. Kisil, *MoebInv: C++ Libraries for Manipulations in Non-Euclidean Geometry*, SoftwareX, **11**(2020), [100385](https://doi.org/10.1016/j.softx.2019.100385). arXiv:[1912.03489](https://arxiv.org/abs/1912.03489).
