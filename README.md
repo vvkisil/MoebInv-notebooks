@@ -16,7 +16,7 @@ Alternatively these notebooks can be executed from  a [CodeOcean capsule](https:
 
 + **Euclidean and Lobachevsky lines** This notebook also show how to make initial software installation
 
-   [⌘ View on Github](https://github.com/vvkisil/MoebInv-notebooks/blob/Introduction/master/Introduction/Euclidean_and_Lobachevsky_lines.ipynb),  or [👁 HTML view](http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/Introduction/Euclidean_and_Lobachevsky_lines.html) or [⚙ Execute on Colab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Introduction/Euclidean_and_Lobachevsky_lines.ipynb).
+   [⌘ View on Github](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Euclidean_and_Lobachevsky_lines.ipynb),  or [👁 HTML view](http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/Introduction/Euclidean_and_Lobachevsky_lines.html) or [⚙ Execute on Colab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Introduction/Euclidean_and_Lobachevsky_lines.ipynb).
 
 + **Nine point theorem**: Some non-trivial illustrations on the celebrated result
 
@@ -64,8 +64,8 @@ There is bidirectional integration beetween Jupyter and GUI:
  Here is an
 [Example](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Nine_point_auto_script.ipynb) or its [👁 HTML view](http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/Introduction/Nine_point_auto_script.html) of a Python script and Jupyter notebook automatically created from the GUI.
 
-### References
 <a id="references"></a>
+### References
 
 <a id="[1]"></a>
 1. Vladimir V. Kisil, *Fillmore–Springer–Cnops Construction Implemented in GiNaC*, Advances in Applied Clifford Algebras, **17**(2007), no. 1, pp. 59–70, [on-line](http://dx.doi.org/10.1007/s00006-006-0017-4) [arXiv:cs.MS/0512073](http://arxiv.org/abs/cs.MS/0512073).
