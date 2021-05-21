@@ -9,7 +9,7 @@ The code from these notebooks can be executed at Google CoLab after the installa
 
 Specifically, open the notebook with [library installation instructions](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Introduction/Software_installation_GUI_integration.ipynb) and execute one cells with scripts. Then you can run all other notebooks until your CoLab session will expire.
 
-Alternatively these notebooks can be executed from  a [CodeOcean capsule](https://codeocean.com/capsule/7952650/tree).
+Alternatively these notebooks can be executed from a [CodeOcean capsule](https://codeocean.com/capsule/7952650/tree).
 
 
 ## Introductory examples
