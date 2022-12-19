@@ -42,7 +42,7 @@ Alternatively these notebooks can be executed from a [CodeOcean capsule](https:/
  
  + [Appendix: illustrations](Appendix_Illustrations/) -- some examples of `MoebInv` usage which generate attractive graphics.
 
-## Jupyter and MoebInv-GUI integration
+## Jupyter and Yaglom integration
 There is a Graphical User Interface (GUI) to the MoebInv library. It allows to create and research geometrical constructions by mouse clicks. You may find a pre-compiled GUI binary distribution for your desktop platform at [SourceForge](https://sourceforge.net/projects/moebinv/files/binary/). 
 
 There is bidirectional integration beetween Jupyter and GUI:
