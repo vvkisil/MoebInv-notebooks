@@ -47,9 +47,9 @@ def draw_net(Exp,Var,X,Y,D,L,S,N=0):
                     H=H+".."
                 Fi=D1+1.0*(D2-D1)*i/(DN-1)
                 if HN:
-                    T0=Exp.subs([Var[0]==Fi,Var[1]==Fj])
+                    T0=Exp.subs({Var[0] : Fi,Var[1] : Fj})
                 else:
-                    T0=Exp.subs([Var[0]==Fj,Var[1]==Fi])
+                    T0=Exp.subs({Var[0] : Fj,Var[1] : Fi})
                 H=H+"(%s,%s)" % (S*T0.op(0).evalf(),S*T0.op(1).evalf())
         H=H+";"
         return H
@@ -157,13 +157,13 @@ if (UseVectors):
 
     # Point space Clifford unit
     e=clifford_unit(mu,M)
-    e0=e.subs(mu==0)
-    e1=e.subs(mu==1)
+    e0=e.subs({mu : 0})
+    e1=e.subs({mu : 1})
 
     # Cycle space Clifford unit
     es=clifford_unit(nu,M1,1)
-    es0=es.subs(nu==0)
-    es1=es.subs(nu==1)
+    es0=es.subs({nu : 0})
+    es1=es.subs({nu : 1})
 
 else:
     if (UseVaridx):
@@ -178,12 +178,12 @@ else:
     # Point space Clifford unit
     e=clifford_unit(mu,diag_matrix([sign]))
     e0=1
-    e1=e.subs(mu==0);
+    e1=e.subs({mu : 0});
 
     # Cycle space Clifford unit
     es=clifford_unit(nu,diag_matrix([sign1]),1)
     es0=1
-    es1=es.subs(nu==0)
+    es1=es.subs({nu : 0})
     
 one=dirac_ONE();
 ones=dirac_ONE(1);
@@ -260,6 +260,6 @@ def infinites_cycle(u, v, sign1, sign4=sign1):
     """ Definition of the sign1-infinitesimal cycle"""
     C=cycle2D(1, [u, n],  pow(u,2)+2*n*v-pow(n,2)*sign4, e)
     if (sign1==sign4):
-        return cycle2D(C.subs(n==pow(epsilon,2)/2/v))
+        return cycle2D(C.subs({n : pow(epsilon,2)/2/v}))
     else:
-        return cycle2D(C.subs(n==(v-sqrt(pow(v,2)-(sign4-sign1)*pow(epsilon,2)))/(sign4-sign1)))
+        return cycle2D(C.subs({n : (v-sqrt(pow(v,2)-(sign4-sign1)*pow(epsilon,2)))/(sign4-sign1)}))
