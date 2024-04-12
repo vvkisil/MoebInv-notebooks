@@ -8,7 +8,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.3.7.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.3.7.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -34,7 +34,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.3.13.i.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.3.13.i.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -60,7 +60,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.3.13.iv.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.3.13.iv.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -86,7 +86,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.3.16.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.3.16.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -112,7 +112,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.3.21.i.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.3.21.i.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -138,7 +138,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.3.25.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.3.25.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -164,7 +164,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/th.I.4.13.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/th.I.4.13.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -190,7 +190,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.4.15.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.4.15.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -216,7 +216,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.4.16.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.4.16.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -242,7 +242,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.4.20.iii.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.4.20.iii.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -268,7 +268,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.9.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.5.9.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -294,7 +294,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.12.i.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.5.12.i.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -320,7 +320,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.12.ii.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.5.12.ii.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -346,7 +346,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.12.iii.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.5.12.iii.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -372,7 +372,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.17.iv.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.5.17.iv.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -398,7 +398,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.18.iv.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.5.18.iv.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -424,7 +424,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.18.v.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.5.18.v.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -450,7 +450,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.21.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.5.21.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -476,7 +476,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.23.i.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.5.23.i.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -502,7 +502,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.23.ii.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.5.23.ii.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -528,7 +528,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.24.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.5.24.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -554,7 +554,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.25.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.5.25.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -580,7 +580,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.28.i.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.5.28.i.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -606,7 +606,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.5.31.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.5.31.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -632,7 +632,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.3.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.6.3.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -658,7 +658,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.5.i.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.6.5.i.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -684,7 +684,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.18.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.6.18.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -710,7 +710,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/pr.I.6.19.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/pr.I.6.19.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -736,7 +736,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.22.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.6.22.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -762,7 +762,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.24.i.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.6.24.i.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -788,7 +788,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.24.ii.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.6.24.ii.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -814,7 +814,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.24.iv.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.6.24.iv.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -840,7 +840,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.25.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.6.25.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -866,7 +866,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.26.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.6.26.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -892,7 +892,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.28.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.6.28.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -918,7 +918,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.31.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.6.31.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -944,7 +944,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.32.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.6.32.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -970,7 +970,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.33.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.6.33.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -996,7 +996,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.38.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.6.38.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1022,7 +1022,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.6.39.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.6.39.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1048,7 +1048,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/pr.I.6.40.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/pr.I.6.40.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1074,7 +1074,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.3.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.7.3.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1100,7 +1100,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/le.I.7.5.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/le.I.7.5.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1126,7 +1126,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.7.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.7.7.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1152,7 +1152,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.8.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.7.8.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1178,7 +1178,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/le.I.7.11.i.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/le.I.7.11.i.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1204,7 +1204,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/le.I.7.11.ii.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/le.I.7.11.ii.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1230,7 +1230,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.14.i.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.7.14.i.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1256,7 +1256,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.14.ii.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.7.14.ii.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1282,7 +1282,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.19.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.7.19.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1308,7 +1308,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.23.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.7.23.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1334,7 +1334,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.24.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.7.24.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1360,7 +1360,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.25.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.7.25.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1386,7 +1386,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.26.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.7.26.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1412,7 +1412,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.29.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.7.29.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1438,7 +1438,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.7.30.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.7.30.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1464,7 +1464,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.8.2.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.8.2.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1490,7 +1490,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.9.5.iii.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.9.5.iii.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1516,7 +1516,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.9.20.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.9.20.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1542,7 +1542,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.10.9.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.10.9.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1568,7 +1568,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.10.11.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.10.11.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1594,7 +1594,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.10.12.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.10.12.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1620,7 +1620,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.10.13.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.10.13.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1646,7 +1646,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/ex.I.10.14.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/ex.I.10.14.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
@@ -1672,7 +1672,7 @@ It is also a comprehensive collection of tests of [MoebInv::cycle library](http:
   <table align="center">
     <tr>
         <td>
-            <a href="http://www1.maths.leeds.ac.uk/~kisilv/MoebInv-notebooks/EPAL-v1/pr.I.11.24.html">
+            <a href="http://v-v-kisil.rf.gd/MoebInv-notebooks/EPAL-v1/pr.I.11.24.html">
   <img src="../svg/view-html.svg" alt="Open In Colab"/>
             </a>
         </td>
