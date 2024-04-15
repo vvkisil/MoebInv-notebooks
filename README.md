@@ -16,21 +16,21 @@ Alternatively these notebooks can be executed from a [CodeOcean capsule](https:/
 
 + **Euclidean and Lobachevsky lines** This notebook also show how to make initial software installation
 
-   [⌘ View on Github](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Euclidean_and_Lobachevsky_lines.ipynb),  or [👁 HTML view](http://v-v-kisil.rf.gd/MoebInv-notebooks/Introduction/Euclidean_and_Lobachevsky_lines.html) or [⚙ Execute on Colab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Introduction/Euclidean_and_Lobachevsky_lines.ipynb).
+   [⌘ View on Github](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Euclidean_and_Lobachevsky_lines.ipynb),  or [👁 HTML view](http://v-v-kisil.scienceontheweb.net/MoebInv-notebooks/Introduction/Euclidean_and_Lobachevsky_lines.html) or [⚙ Execute on Colab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Introduction/Euclidean_and_Lobachevsky_lines.ipynb).
 
 + **Nine point theorem**: Some non-trivial illustrations on the celebrated result
 
    [⌘ View on
-  Github](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Nine_point_theorem.ipynb),   or [👁 HTML view](http://v-v-kisil.rf.gd/MoebInv-notebooks/Introduction/Nine_point_theorem.html) or  [⚙ Execute on CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Introduction/Nine_point_theorem.ipynb).
+  Github](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Nine_point_theorem.ipynb),   or [👁 HTML view](http://v-v-kisil.scienceontheweb.net/MoebInv-notebooks/Introduction/Nine_point_theorem.html) or  [⚙ Execute on CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Introduction/Nine_point_theorem.ipynb).
 
 * **Example of symbolic computations** Analytic proof of a simple geometric statement
 
    [⌘ View on
-  Github](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Example_of_symbolic_computations.ipynb) or [👁 HTML view](http://v-v-kisil.rf.gd/MoebInv-notebooks/Introduction/Example_of_symbolic_computations.html) or  [⚙ Execute on CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Introduction/Example_of_symbolic_computations.ipynb).
+  Github](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Example_of_symbolic_computations.ipynb) or [👁 HTML view](http://v-v-kisil.scienceontheweb.net/MoebInv-notebooks/Introduction/Example_of_symbolic_computations.html) or  [⚙ Execute on CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Introduction/Example_of_symbolic_computations.ipynb).
 
 + **What is PyGiNaC?** Find out what Math can be done with it. 
 
-  [⌘ View on GitHub](https://github.com/vvkisil/MoebInv-notebooks/tree/master/Geometry_of_cycles/Start_from_Basics/pyGiNaC.ipynb) or [👁 HTML view](http://v-v-kisil.rf.gd/MoebInv-notebooks/Geometry_of_cycles/Start_from_Basics/pyGiNaC.html) or [⚙ Execute on CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Geometry_of_cycles/Start_from_Basics/pyGiNaC.ipynb).
+  [⌘ View on GitHub](https://github.com/vvkisil/MoebInv-notebooks/tree/master/Geometry_of_cycles/Start_from_Basics/pyGiNaC.ipynb) or [👁 HTML view](http://v-v-kisil.scienceontheweb.net/MoebInv-notebooks/Geometry_of_cycles/Start_from_Basics/pyGiNaC.html) or [⚙ Execute on CoLab](https://colab.research.google.com/github/vvkisil/MoebInv-notebooks/blob/master/Geometry_of_cycles/Start_from_Basics/pyGiNaC.ipynb).
 
 ## Main folders
 
@@ -62,7 +62,7 @@ There is bidirectional integration beetween Jupyter and GUI:
  Furthermore, to use such code as Jupyter notebook I recommend to post-process the   generated Python script with [p2j (Python to Jupyter)](https://pypi.org/project/p2j/) utility.
 
  Here is an
-[Example](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Nine_point_auto_script.ipynb) or its [👁 HTML view](http://v-v-kisil.rf.gd/MoebInv-notebooks/Introduction/Nine_point_auto_script.html) of a Python script and Jupyter notebook automatically created from the GUI.
+[Example](https://github.com/vvkisil/MoebInv-notebooks/blob/master/Introduction/Nine_point_auto_script.ipynb) or its [👁 HTML view](http://v-v-kisil.scienceontheweb.net/MoebInv-notebooks/Introduction/Nine_point_auto_script.html) of a Python script and Jupyter notebook automatically created from the GUI.
 
 <a id="references"></a>
 ### References
